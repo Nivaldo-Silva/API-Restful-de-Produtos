@@ -81,7 +81,7 @@ Estende JpaRepository para fornecer operações CRUD na ProductEntity.
 
 ### Clone o repositório
 
- git clone https:github.com/Nivaldo-Silva/ Projeto-API-Restful.git
+ git clone https://github.com/Nivaldo-Silva/Projeto-API-Restful-de-Produtos
 
 ### Navegue até o diretório do projeto
 
