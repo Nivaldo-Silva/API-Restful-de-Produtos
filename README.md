@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto é uma API RESTful simples para gerenciar produtos. Ele permite a criação, recuperação, atualização e exclusão (inativação) de produtos. A API é construída usando Spring Boot e segue uma arquitetura em camadas com controladores, modelo, serviços, repositórios e DTOs (Objetos de Transferência de Dados).
+Este projeto é uma API RESTful para gerenciar produtos. Ele permite a criação, recuperação, atualização e exclusão (inativação) de produtos. A API é construída usando Spring Boot e segue uma arquitetura em camadas com controladores, modelo, serviços, repositórios e DTOs (Objetos de Transferência de Dados).
 
 ### Estrutura do Projeto
 
